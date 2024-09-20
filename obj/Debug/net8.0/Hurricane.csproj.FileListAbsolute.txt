@@ -1,0 +1,14 @@
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/bin/Debug/net8.0/Hurricane
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/bin/Debug/net8.0/Hurricane.deps.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/bin/Debug/net8.0/Hurricane.runtimeconfig.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/bin/Debug/net8.0/Hurricane.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/bin/Debug/net8.0/Hurricane.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/obj/Debug/net8.0/Hurricane.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/obj/Debug/net8.0/Hurricane.AssemblyInfoInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/obj/Debug/net8.0/Hurricane.AssemblyInfo.cs
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/obj/Debug/net8.0/Hurricane.csproj.CoreCompileInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/obj/Debug/net8.0/Hurricane.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/obj/Debug/net8.0/refint/Hurricane.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/obj/Debug/net8.0/Hurricane.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/obj/Debug/net8.0/Hurricane.genruntimeconfig.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Hurricane/obj/Debug/net8.0/ref/Hurricane.dll
